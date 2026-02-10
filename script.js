@@ -58,7 +58,7 @@ const messages = [
     "Phir bike pe chalengi?",
     "Wait! What if I promise to drive really slow on the bike this time? Still no?",
     "Just think about Mumbai airport plan Prazz",
-    "If you say no, I will be really sad...",
+    "Is this because of my Hindi? I apologized already!.",
     "Final offer: Say yes, and we can make Pune a feeling all over again",
     "Last try: I’m not looking for a Bollywood ending, just a genuine 'Yes'. Pretty please?",
     "I wrote 5 pages with bad handwriting for this?",
